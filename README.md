@@ -1,7 +1,7 @@
 # MyCV
 # Noah's Portfolio Website
 
-A professional portfolio website showcasing my experience as an IT Infrastructure Engineer and Software Developer. This website serves as an online CV and demonstrates my technical skills, professional experience, and personal interests.
+A professional portfolio website showcasing my experience as an IT Infrastructure Engineer and Full Stack Web and Software Engineer. This website serves as an online CV and demonstrates my technical skills, professional experience, and personal interests.
 
 # Features
 
