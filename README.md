@@ -1,153 +1,139 @@
-# Noah's Portfolio Website
+# Noah Mashaba – Portfolio Website
 
-A professional portfolio website showcasing my experience as an IT Infrastructure Engineer and Software Developer. This website serves as an online CV and demonstrates my technical skills, professional experience, and personal interests.
+A professional portfolio website showcasing my experience as an **IT Infrastructure Engineer** and **Full Stack Software Developer**. This website serves as an online CV, demonstrating my technical skills, professional experience, and personal projects.
 
-# Features
-
-- **Responsive Design**: Fully responsive layout that works on all devices
-- **Modern UI**: Clean and professional design with smooth animations
-- **Interactive Elements**: Engaging user interface with hover effects and transitions
-- **Contact Form**: Functional contact form with validation
-- **Social Media Integration**: Direct links to professional social media profiles
-
-# Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Font Awesome Icons
-- Google Fonts
-- Responsive Web Design
-- Modern CSS Grid and Flexbox
-
-# Pages
-
-1. **Home (index.html)**
-
-   - Welcome section
-   - Brief introduction
-   - Call-to-action buttons
-
-2. **About (about.html)**
-
-   - Professional Profile
-   - Technical Skills
-   - Professional Experience
-   - Certifications
-   - Personal Interests
-
-3. **Contact (contact.html)**
-   - Contact Information
-   - Contact Form
-   - Social Media Links
-
-# Technical Skills Showcased
-
-# Network Monitoring
-
-- Wireshark
-- SolarWinds
-- PRTG Network Monitor
-- Nagios
-- Zabbix
-
-# Network Visualization
-
-- Grafana
-- Kibana
-- Prometheus
-- ELK Stack
-- Network Topology Mapping
-
-# Network Security
-
-- Firewall Configuration
-- VPN Management
-- Intrusion Detection
-- Security Monitoring
-- Access Control
-
-# Infrastructure
-
-- Windows Server
-- Linux Systems
-- Virtualization
-- Cloud Services
-- Backup Solutions
-
-# IP Surveillance
-
-- Hikvision Systems
-- Uniview Solutions
-- Milestone XProtect
-- Video Management Systems
-- IP Camera Configuration
-
-# Network Design
-
-- Network Architecture
-- Topology Planning
-- Capacity Planning
-- Redundancy Design
-- Scalability Solutions
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone [repository-url]
-   ```
-
-2. Open `index.html` in your web browser to view the website.
-
-3. No additional setup or installation required - the website runs entirely in the browser.
-
-# Responsive Design
-
-The website is fully responsive and optimized for:
-
-- Desktop computers
-- Tablets
-- Mobile phones
-- Different screen sizes and orientations
-
-# Design Features
-
-- Modern color scheme with light grey theme
-- Light blue accent colors for icons and buttons
-- Smooth animations and transitions
-- Interactive hover effects
-- Clean typography using Inter font family
-- Consistent spacing and layout
-
-# Social Media Links
-
-- LinkedIn: [Noah Mashaba](https://www.linkedin.com/in/noah-mashaba-888025220)
-- GitHub: [NoahandtheArk](https://github.com/NoahandtheArk/Webdev/blob/NoahandtheArk-patch-1)
-- Twitter: [@NoahMashaba](https://x.com/)
-
-# Contact Information
-
-- Email: mashanoah@gmail.com
-- Phone: +27 62 600 5102
-- Location: Johannesburg, South Africa
-
-# Form Validation
-
-The contact form includes:
-
-- Real-time validation
-- Required field checking
-- Email format validation
-- Minimum length requirements
-- Success/error messages
-- Form reset after submission
-
-# Author
-
-Created by Noah Mashaba
+The portfolio highlights my **hands-on projects** in web development, network engineering, DevOps, and database administration.
 
 ---
 
-Showcasing professional experience and skills
+## 🔗 Online Portfolio Links
+
+- **Online CV**: [https://noahandtheark.github.io/MyCV/](https://noahandtheark.github.io/MyCV/)  
+- **LinkedIn Profile**: [https://www.linkedin.com/in/noah-mashaba-888025220/](https://www.linkedin.com/in/noah-mashaba-888025220/)  
+
+---
+
+## 🏆 Features
+
+- **Responsive Design**: Fully responsive layout for all devices  
+- **Modern UI**: Clean, professional design with smooth animations  
+- **Interactive Elements**: Engaging interface with hover effects and transitions  
+- **Contact Form**: Functional form with real-time validation  
+- **Social Media Integration**: Direct links to professional profiles  
+- **Projects Showcase**: Live demos and GitHub repositories for hands-on projects  
+
+---
+
+## 💻 Technologies Used
+
+- **Frontend**: HTML5, CSS3, JavaScript, React  
+- **Backend**: Node.js, Express, Python, Django  
+- **Databases**: SQL & NoSQL (MongoDB, PostgreSQL)  
+- **Tools & Libraries**: Git, Font Awesome, Google Fonts, CSS Grid & Flexbox  
+
+---
+
+## 📄 Pages
+
+1. **Home (index.html)**
+   - Welcome section
+   - Brief introduction
+   - Call-to-action buttons  
+
+2. **About (about.html)**
+   - Professional Profile
+   - Technical Skills
+   - Certifications & Training
+   - Personal Interests  
+
+3. **Contact (contact.html)**
+   - Contact Information
+   - Functional Contact Form
+   - Social Media Links  
+
+---
+
+## 🔧 Technical Skills Showcased
+
+### **Full Stack Development**
+- React, Node.js, Express
+- RESTful APIs
+- Role-based Access Control
+- Frontend & Backend Integration
+- SQL & NoSQL Databases
+
+### **Network & Infrastructure**
+- Cisco Routing & Switching (CCNA, CCNP)
+- Mikrotik Network Engineering (MTCNA, MTCWE, MTCRE)
+- Windows & Linux Administration
+- Virtualization & Cloud Services
+
+### **Network Monitoring & Security**
+- Wireshark, PRTG, Nagios, Zabbix
+- Firewall Configuration, VPN, IDS
+- Access Control & Security Monitoring  
+
+### **IP Surveillance**
+- Hikvision, Uniview, Milestone XProtect
+- Video Management Systems
+- Camera Configuration & Network Integration  
+
+### **DevOps & Database Administration**
+- Git & Version Control
+- CI/CD Basics
+- Backup & Recovery
+- Database Management & Optimization  
+
+---
+
+## 🚀 Projects
+
+1. **React Hangman Game** – [GitHub](https://github.com/NoahandtheArk/react-hangman) | [Live Demo](https://cryptic-ocean-92518-654cff12c7da.herokuapp.com/)  
+2. **GitHub Explorer** – [GitHub](https://github.com/NoahandtheArk/github-explorer-capstone)  
+3. **Refactoring Project** – [GitHub](https://github.com/NoahandtheArk/refactoring-project/tree/main)  
+4. **MyCV Portfolio** – [GitHub](https://github.com/NoahandtheArk/MyCV) | [Live](https://noahandtheark.github.io/MyCV/)  
+
+---
+
+## 📐 Design Features
+
+- Light grey theme with blue accent highlights  
+- Smooth animations and transitions  
+- Interactive hover effects  
+- Clean typography (Inter font family)  
+- Consistent spacing and layout across pages  
+
+---
+
+## 🌐 Social Media Links
+
+- LinkedIn: [Noah Mashaba](https://www.linkedin.com/in/noah-mashaba-888025220)  
+- GitHub: [NoahandtheArk](https://github.com/NoahandtheArk)  
+- X / Twitter: [@NoahMashaba](https://x.com/)  
+
+---
+
+## 📧 Contact Information
+
+- Email: mashanoah@gmail.com  
+- Phone: +27 62 600 5102  
+- Location: Johannesburg, South Africa  
+
+---
+
+## 📋 Form Validation
+
+The contact form includes:
+
+- Real-time validation  
+- Required field checking  
+- Email format validation  
+- Minimum length requirements  
+- Success/error messages  
+- Automatic form reset after submission  
+
+---
+
+## 📝 Author
+
+Created by **Noah Mashaba** – showcasing professional experience, technical skills, and full stack development projects.  
